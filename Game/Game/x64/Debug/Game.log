@@ -1,0 +1,34 @@
+﻿  Fruit.cpp
+  Game.cpp
+  GameOverScreen.cpp
+C:\Users\toiye\source\repos\Game\Game\GameOverScreen.cpp(18,59): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  GameScreen.cpp
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(65,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(68,73): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(68,73): warning C4244:         with
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(68,73): warning C4244:         [
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(68,73): warning C4244:             _Ty=int
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(68,73): warning C4244:         ]
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(69,74): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(69,74): warning C4244:         with
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(69,74): warning C4244:         [
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(69,74): warning C4244:             _Ty=int
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(69,74): warning C4244:         ]
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,74): warning C4244:         with
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,74): warning C4244:         [
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,74): warning C4244:             T=float
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,74): warning C4244:         ]
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,51): warning C4244:         with
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,51): warning C4244:         [
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,51): warning C4244:             T=float
+C:\Users\toiye\source\repos\Game\Game\GameScreen.cpp(73,51): warning C4244:         ]
+  MenuScreen.cpp
+  Screen.cpp
+  Snake.cpp
+C:\Users\toiye\source\repos\Game\Game\Snake.cpp(132,23): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  SnakeNode.cpp
+  main.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\toiye\source\repos\Game\x64\Debug\Game.exe
